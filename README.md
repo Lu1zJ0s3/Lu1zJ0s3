@@ -13,9 +13,9 @@
   <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" height="50"/>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="50"/>
 </div>
 
 ### 📫 Contato  
