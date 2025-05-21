@@ -20,9 +20,17 @@
 </div>
 
 ### 📫 Contato  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/luiz-andrade-90a92a227)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](lu1zx.dev@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lu1z_nt) 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+  <a href="https://linkedin.com/in/luiz-andrade-90a92a227">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" title="LinkedIn"/>
+  </a>
+  <a href="lu1zx.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" title="Gmail"/>
+  </a>
+  <a href="https://instagram.com/lu1z_nt">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60" title="Instagram"/>
+  </a>
+</div>
 
 ---
 
