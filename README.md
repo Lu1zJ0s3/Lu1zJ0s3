@@ -20,9 +20,9 @@
 </div>
 
 ### 📫 Contato  
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://linkedin.com/in/luiz-andrade-90a92a227">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" title="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" title="LinkedIn"/>
   </a>
   <a href="lu1zx.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="60" title="Gmail"/>
