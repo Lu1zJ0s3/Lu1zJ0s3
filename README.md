@@ -15,13 +15,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
-### 📊 GitHub Stats  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dracula&hide_border=true)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dracula&hide_border=true)  
-
 ### 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/luiz-andrade-90a92a227)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](lu1zx.dev@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lu1z_nt) 
 
 ---
