@@ -1,46 +1,37 @@
-<div style="display: flex; flex-direction: row; align-items: center; gap: 30px;">
-  <div style="flex: 1;">
-    <h1>👋 Olá, eu sou Luiz José!</h1>
-    
-    <p><strong>🎓 Estudante de Python & Django | 🌍 Pau dos Ferros, RN | 🏫 IFRN Campus Pau dos Ferros</strong></p>
+# 👋 Olá, eu sou Luiz José! 
 
-    <h3>🚀 Sobre Mim</h3>
-    <ul>
-      <li>📚 Atualmente estudando <strong>Python, Django e Desenvolvimento Web</strong></li>
-      <li>💡 Interesses: <strong>Backend, Automação e Ciência de Dados</strong></li>
-      <li>🎯 Objetivo: Me tornar um <strong>Desenvolvedor Full-Stack</strong></li>
-    </ul>
-  </div>
+**🎓 Estudante de Python & Django | 🌍 Pau dos Ferros, RN | 🏫 IFRN Campus Pau dos Ferros**  
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/lu1zandrade/lu1zandrade/main/assets/tech-avatar.gif" width="250" alt="Avatar Tecnológico" />
-  </div>
-</div>
+### 🚀 Sobre Mim  
+- 📚 Atualmente estudando **Python, Django e Desenvolvimento Web**.  
+- 💡 Interesses: **Backend, Automação e Ciência de Dados**.  
+- 🎯 Objetivo: Me tornar um **Desenvolvedor Full-Stack**.  
 
 ### 🛠 Tech Stack 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-  <img src="https://skillicons.dev/icons?i=python,django,flask" title="Python | Django | Flask" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js" title="HTML | CSS | JavaScript" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" title="Git | GitHub | VSCode" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres,bootstrap,linux" title="PostgreSQL | Bootstrap | Linux" height="50"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="50"/>
 </div>
 
 ### 📫 Contato  
-<div style="display: flex; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/luiz-andrade-90a92a227" target="_blank">
+<div style="display: flex; flex-wrap: wrap; margin-top: 20px; margin-right: 20px;">
+  <a href="https://linkedin.com/in/luiz-andrade-90a92a227">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/>
   </a>
-  <a href="mailto:lu1zx.dev@gmail.com" target="_blank">
+  <a href="lu1zx.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" title="Gmail"/>
   </a>
-  <a href="https://instagram.com/lu1z_nt" target="_blank">
+  <a href="https://instagram.com/lu1z_nt">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" title="Instagram"/>
-  </a>
-  <a href="https://github.com/lu1zandrade" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/>
   </a>
 </div>
 
 ---
 
-💬 **Pergunte-me sobre:** Python, Django, IFRN ou qualquer coisa que você curta! 😊
+💬 **Pergunte-me sobre:** Python, Django, IFRN ou qualquer coisa que você curta! 😊  
