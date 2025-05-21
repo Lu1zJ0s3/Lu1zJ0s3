@@ -22,13 +22,13 @@
 ### 📫 Contato  
 <div style="display: flex; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://linkedin.com/in/luiz-andrade-90a92a227">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" title="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
   <a href="lu1zx.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" title="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Gmail"/>
   </a>
   <a href="https://instagram.com/lu1z_nt">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" title="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" title="Instagram"/>
   </a>
 </div>
 
