@@ -7,13 +7,20 @@
 - 💡 Interesses: **Backend, Automação e Ciência de Dados**.  
 - 🎯 Objetivo: Me tornar um **Desenvolvedor Full-Stack**.  
 
-### 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](<img src="./icons/Django.svg" width="48">)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+### 🛠 Tech Stack 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="50"/>
+</div>
 
 ### 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/luiz-andrade-90a92a227)  
