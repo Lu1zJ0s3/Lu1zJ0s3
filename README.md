@@ -16,9 +16,6 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="50"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="50"/>
 </div>
 
