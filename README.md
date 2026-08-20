@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Luiz José
 
-<!--
-**Lu1zJ0s3/Lu1zJ0s3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Desenvolvedor Web Back-End em formação, com conhecimentos em APIs REST com Django e DRF, também iniciando com Spring Boot. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+* APIs REST
+* Django
+* Django Rest Framework
+* SQL
+* Git & GitHub
+
+## 📫 Contato
+
+* LinkedIn: linkedin.com/in/lu1zxdev
+* E-mail: [lu1zx.dev@gmail.com](mailto:lu1zx.dev@gmail.com)
+
+---
+
+💼 Aberto a oportunidades de estágio e desenvolvimento profissional na área de tecnologia.
