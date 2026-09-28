@@ -2,13 +2,16 @@
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
-Desenvolvedor Web Back-End em formação, com conhecimentos em APIs REST com Django e DRF, também iniciando com Spring Boot. 
+Desenvolvedor Web Back-End em formação, atualmente trabalhando com Spring Boot e Next.js. 
 
 ## 🚀 Tecnologias
 
-* APIs REST
 * Django
 * Django Rest Framework
+* Java
+* Spring Boot
+* TypeScript
+* Next.js
 * SQL
 * Git & GitHub
 
@@ -16,7 +19,3 @@ Desenvolvedor Web Back-End em formação, com conhecimentos em APIs REST com Dja
 
 * LinkedIn: linkedin.com/in/lu1zxdev
 * E-mail: [lu1zx.dev@gmail.com](mailto:lu1zx.dev@gmail.com)
-
----
-
-💼 Aberto a oportunidades de estágio e desenvolvimento profissional na área de tecnologia.
