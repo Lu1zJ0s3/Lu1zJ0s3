@@ -2,7 +2,7 @@
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
-Desenvolvedor Web Back-End em formação, atualmente trabalhando com Spring Boot e Next.js. 
+Desenvolvedor Web Fullstack, atualmente trabalhando com Spring Boot e Next.js. 
 
 ## 🚀 Tecnologias
 
