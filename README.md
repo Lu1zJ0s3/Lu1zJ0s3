@@ -16,16 +16,16 @@
 ## 📊 Estatísticas
 
 <p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=Lu1zJ0s3&locale=pt_BR&theme=tokyonight&hide_border=true&timezone=America%2FSao_Paulo"
-    alt="Sequência de commits"
+  <img
+    src="https://github-stats-card-iota.vercel.app/api/stats?user=Lu1zJ0s3"
+    alt="Contribuições e sequências no GitHub"
   />
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lu1zJ0s3&theme=tokyonight"
-    alt="Detalhes do perfil"
+  <img
+    src="https://github-stats-card-iota.vercel.app/api/profile?user=Lu1zJ0s3"
+    alt="Detalhes do perfil e gráfico de contribuições"
   />
 </p>
 
